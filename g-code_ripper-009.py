@@ -1,8 +1,6 @@
 #!/usr/bin/python
 """
 
-test
-
     g-code_ripper_009.py G-Code-Ripper
     Copyright (C) <2015>  <Scorch>
     This program is free software: you can redistribute it and/or modify
